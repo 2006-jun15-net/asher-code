@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>2640f88e-d766-4cc2-9524-e77143284a6f</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Registration.DataAccess\Registration.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
